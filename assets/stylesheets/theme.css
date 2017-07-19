@@ -12,7 +12,6 @@ body {
 .content {
   background-color: #030303;
   color: #eeeeee;
-  display: flex;
   padding: 15px;
 }
 
